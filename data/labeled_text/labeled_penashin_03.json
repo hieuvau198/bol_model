@@ -1,0 +1,22 @@
+{
+    "shipper": "VIET HOA TRANSPORT SERVICE AND TRADING CO., LTD, 284 NGUYEN TAT THANH STR, WARD 13, DIST 4, HCMC, VIETNAM",
+    "consignee": "SUGATTI FREIGHT INT'L (THAILAND) CO., LTD, 11/38 SUKHUMVIT ROAD, FRAXANONG, KLONGTOEY",
+    "notifyParty": "PENANSHIN SHIPPING HCM CO., LTD, SAME AS ABOVE",
+    "finalDestination": "BANGKOK",
+    "codeOfPortOfLoading": "HOCHIMINH, VIETNAM",
+    "portOfUnloading": "BANGKOK",
+    "placeOfDelivery": "BANGKOK CFS",
+    "cargoType": "LCL/LCL",
+    "billOfLadingNumber": "HCMBKKO030112022",
+    "dateOfHouseBillOfLading": "01 DEC, 2022",
+    "departureDate": "01 DEC, 2022",
+    "numberOfPackages": "29",
+    "kindOfPackages": "CTNS",
+    "totalGrossWeight": "1,899.58",
+    "totalGrossWeightUnit": "KGS",
+    "descriptionOfGoods": "WAVEN FABRIC, PATTERN NO. MD39, 100 PCT POLY ESTER, WIDTH: 58''PO NO. TTI0903/00054. TTI0903/00066",
+    "grossWeight": "1,899.58",
+    "dimensionTonnage": "6.000 CBM",
+    "contNumber": "CSLU2082865",
+    "sealNumber": "21567932"
+}
