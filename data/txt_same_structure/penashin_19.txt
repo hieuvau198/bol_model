@@ -1,0 +1,109 @@
+Consignor/Shipper:
+EAST ASIA LOGISTICS LTD
+456 BAYFRONT ROAD
+SINGAPORE
+TEL: +65 6211 2345 FAX: +65 6211 2346
+
+Forwarders Ref.
+
+Customs Reference/Status
+
+Page: 1
+
+Shippers Reference
+Bill of Lading No.
+SGPBOL11242024
+
+Consigned to Order of:
+TO THE ORDER OF UNITED COMMERCIAL BANK
+BBL NO. 98/PRX 654321
+TO BE ISSUED BY GLOBAL FREIGHT CARRIERS
+
+Notify party:
+MUMBAI EXPORTS PVT LTD
+LEVEL 3, OFFICE TOWER,
+22 NARIMAN POINT, MUMBAI 400021, INDIA
+TEL: +91 22 3456 7890 FAX: +91 22 3456 7891
+
+PACIFIC OCEAN SHIPPING SERVICES
+Country: Singapore
+Port: SINGAPORE
+Tel: +65 6433 1122
+Fax: +65 6433 1123
+Email: operations@pacificoceanservices.sg
+Addr: 78 MARITIME SQUARE,
+HARBORFRONT CENTRE, SINGAPORE
+
+Booking Reference
+SGP98765
+Place of Receipt
+SINGAPORE PORT
+Vessel
+OCEANIC STAR V.078W
+
+Place of Loading
+SINGAPORE PORT
+
+Port of Discharge
+MUMBAI, INDIA
+
+Place of Delivery
+MUMBAI CFS
+
+BILL OF LADING
+Contents, weight, value, and measurement according to sender’s declaration
+
+Marks & Number
+
+Number and Kind of Packages, Description of Goods
+
+Gross Weight
+
+CBM/ Volume
+
+PART OF REFRIGERATED CONTAINER STC
+20 BOXES S.T.C
+FROZEN SEAFOOD PRODUCTS
+
+1040.50 kgs
+
+6.000 CBM
+
+LCL/LCL
+
+SHIPPING MARKS:
+FREIGHT PREPAID
+SEAFOOD EXPORTS GROUP
+C/NO. 20
+PO NO: POSGP098MUBRD65432
+(5IND20/20)
+
+CONTAINER & SEAL NO:
+CMAU1234567/54321098
+
+(Original B/L Surrendered In SINGAPORE)
+
+According to declaration of the consignor.
+The goods and instructions are accepted and dealt with subject to the Company’s Standard Conditions.
+Taken in charge in apparent good order and condition, unless otherwise noted herein, at the place of receipt for transport and delivery
+as mentioned above.
+
+Freight Payable At
+DESTINATION
+
+Freight Amount
+Cargo Insurance through the undersigned
+Not covered: Yes/ No
+Covered according to attached policy: Yes/ No
+
+No. of Original B/Lading
+TWO
+
+For delivery of goods please apply to:
+MUMBAI EXPORTS PVT LTD
+22 NARIMAN POINT, FORT AREA,
+MUMBAI 400021, INDIA
+TEL: +91 22 5678 4321, FAX: +91 22 5678 4322
+
+Place and Date of Issue
+SINGAPORE 24 NOVEMBER, 2024
