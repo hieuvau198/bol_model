@@ -1,0 +1,185 @@
+{
+    "data": [
+      {
+        "context": "Consignor/Shipper: EASTERN STAR SHIPPING CO., LTD 12 TRAN PHU ST., BINH THANH DISTRICT HO CHI MINH CITY, VIETNAM TEL: +84 835 678 9101 FAX: +84 835 678 9102  Forwarders Ref.  Customs Reference/Status  Page: 1  Shippers Reference Bill of Lading No. HCMCSP02142023  Consigned to Order of: TO THE ORDER OF GLOBAL BANK PLC BBL NO. 5/DKK 403567 TO BE ISSUED BY EASTERN STAR LINES  Notify party: ASIA PACIFIC TRADING LTD 9TH FLOOR, UNITY BUILDING, CHAROEN KRUNG RD. BANGKOK 10120, THAILAND TEL: 66-2-765-4321 FAX: 66-2-765-4322  VIETNAM CARGO LOGISTICS CO., LTD Country: Vietnam Port: HO CHI MINH Tel: +84 2822345678 Fax: +84 2822345679 Email: contact@vietcargo.vn Addr: ROOM 3A, 10TH FLOOR, PEARL PLAZA, NO. 561 DIEN BIEN PHU ST., BINH THANH DISTRICT, HCM CITY, VIETNAM  Booking Reference SGN04131 Place of Receipt HO CHI MINH PORT Vessel ASIA NAVIGATOR V.215W  Place of Loading HO CHI MINH PORT, VIETNAM  Port of Discharge YOKOHAMA PORT, JAPAN  Place of Delivery YOKOHAMA CFS  BILL OF LADING Contents, weight, value, and measurement according to senderâ€™s declaration  Marks & Number  Number and Kind of Packages, Description of Goods  Gross Weight  CBM/ Volume  PART OF DRY CONTAINER STC 3 CTNS S.T.C SYNTHETIC FABRIC 80% POLYESTER, 20% SPANDEX W: 130 CM  150.00 kgs  2.200 CBM  LCL/LCL  SHIPPING MARKS: FREIGHT PREPAID SUNSHINE APPAREL CO., LTD C/NO. 3 PO NO: POSB22XY09234 (5AXP12/04)  CONTAINER & SEAL NO: JKLU1234567/12987645  (Original B/L Surrendered In HO CHI MINH CITY)  According to declaration of the consignor. The goods and instructions are accepted and dealt with subject to the Companyâ€™s Standard Conditions. Taken in charge in apparent good order and condition, unless otherwise noted herein, at the place of receipt for transport and delivery as mentioned above.  Freight Payable At DESTINATION  Freight Amount Cargo Insurance through the undersigned Not covered: Yes/ No Covered according to attached policy: Yes/ No  No. of Original B/Lading ZERO  For delivery of goods please apply to: VIETNAM CARGO LOGISTICS (JAPAN) LTD. 2-1 MINATO MIRAI, NISHI-KU, YOKOHAMA, JAPAN TEL: (81) 45-9876543, FAX: (81) 45-9876544  Place and Date of Issue HO CHI MINH 14 FEB, 2023",
+        "qas": [
+          {
+            "id": "1",
+            "question": "Who is the shipper?",
+            "answers": [
+              {
+                "text": "EASTERN STAR SHIPPING CO., LTD 12 TRAN PHU ST., BINH THANH DISTRICT HO CHI MINH CITY, VIETNAM",
+                "answer_start": 19
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "2",
+            "question": "Who is the consignee?",
+            "answers": [
+              {
+                "text": "TO THE ORDER OF GLOBAL BANK PLC BBL NO. 5/DKK 403567 TO BE ISSUED BY EASTERN STAR LINES",
+                "answer_start": 287
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "3",
+            "question": "Who is the notify party?",
+            "answers": [
+              {
+                "text": "ASIA PACIFIC TRADING LTD 9TH FLOOR, UNITY BUILDING, CHAROEN KRUNG RD. BANGKOK 10120, THAILAND",
+                "answer_start": 390
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "4",
+            "question": "What is the port of loading?",
+            "answers": [
+              {
+                "text": "HO CHI MINH PORT, VIETNAM",
+                "answer_start": 874
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "5",
+            "question": "What is the port of discharge?",
+            "answers": [
+              {
+                "text": "YOKOHAMA PORT, JAPAN",
+                "answer_start": 919
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "6",
+            "question": "What is the place of delivery?",
+            "answers": [
+              {
+                "text": "YOKOHAMA CFS",
+                "answer_start": 959
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "7",
+            "question": "What is the bill of lading number?",
+            "answers": [
+              {
+                "text": "HCMCSP02142023",
+                "answer_start": 248
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "8",
+            "question": "What is the place and date of issue?",
+            "answers": [
+              {
+                "text": "HO CHI MINH 14 FEB, 2023",
+                "answer_start": 2154
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "9",
+            "question": "How many packages are there?",
+            "answers": [
+              {
+                "text": "3",
+                "answer_start": 1186
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "10",
+            "question": "What kind of package is it?",
+            "answers": [
+              {
+                "text": "CTNS",
+                "answer_start": 1188
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "11",
+            "question": "What is the gross weight?",
+            "answers": [
+              {
+                "text": "150.00",
+                "answer_start": 1254
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "12",
+            "question": "What is the gross weight unit?",
+            "answers": [
+              {
+                "text": "kgs",
+                "answer_start": 1261
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "13",
+            "question": "What is the description of goods?",
+            "answers": [
+              {
+                "text": "SYNTHETIC FABRIC 80% POLYESTER, 20% SPANDEX W: 130 CM",
+                "answer_start": 1199
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "14",
+            "question": "What is the dimension or tonnage?",
+            "answers": [
+              {
+                "text": "2.200 CBM",
+                "answer_start": 1266
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "15",
+            "question": "What is the container number?",
+            "answers": [
+              {
+                "text": "JKLU1234567",
+                "answer_start": 1407
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "16",
+            "question": "What is the seal number?",
+            "answers": [
+              {
+                "text": "12987645",
+                "answer_start": 1419
+              }
+            ],
+            "is_impossible": false
+          }
+        ]
+      }
+    ]
+  }

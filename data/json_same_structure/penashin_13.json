@@ -1,0 +1,185 @@
+{
+    "data": [
+      {
+        "context": "Consignor/Shipper: SOUTH ATLANTIC EXPORTS INC. 240 PORTSIDE ROAD BUENOS AIRES, ARGENTINA TEL: +54 11 4567 8900 FAX: +54 11 4567 8901  Forwarders Ref.  Customs Reference/Status  Page: 1  Shippers Reference Bill of Lading No. BUEHKG12092024  Consigned to Order of: TO THE ORDER OF SANTANDER BANK BBL NO. 12/DKK 456123 TO BE ISSUED BY SOUTH ATLANTIC LINES  Notify party: HONG KONG IMPORT GROUP LTD 15 HARBOUR ROAD, WAN CHAI, HONG KONG TEL: +852 2567 8901 FAX: +852 2567 8902  ANDES SHIPPING COMPANY LTD Country: Argentina Port: BUENOS AIRES Tel: +54 11 8765 4321 Fax: +54 11 8765 4322 Email: logistics@andesshipping.com.ar Addr: 18 DOCKLANDS DRIVE, PUERTO MADERO, BUENOS AIRES, ARGENTINA  Booking Reference HKG98432 Place of Receipt BUENOS AIRES PORT Vessel OCEANIC SPIRIT V.207E  Place of Loading BUENOS AIRES PORT, ARGENTINA  Port of Discharge HONG KONG  Place of Delivery HONG KONG CFS  BILL OF LADING Contents, weight, value, and measurement according to senderâ€™s declaration  Marks & Number  Number and Kind of Packages, Description of Goods  Gross Weight  CBM/ Volume  PART OF DRY CONTAINER STC 20 CTNS S.T.C WINERY EQUIPMENT AND SUPPLIES  560.40 kgs  4.150 CBM  LCL/LCL  SHIPPING MARKS: FREIGHT PREPAID GRAPEWORKS LIMITED C/NO. 20 PO NO: POHK142AR08943 (2HK11/20)  CONTAINER & SEAL NO: TRHU9082736/34217654  (Original B/L Surrendered In BUENOS AIRES)  According to declaration of the consignor. The goods and instructions are accepted and dealt with subject to the Companyâ€™s Standard Conditions. Taken in charge in apparent good order and condition, unless otherwise noted herein, at the place of receipt for transport and delivery as mentioned above.  Freight Payable At DESTINATION  Freight Amount Cargo Insurance through the undersigned Not covered: Yes/ No Covered according to attached policy: Yes/ No  No. of Original B/Lading ZERO  For delivery of goods please apply to: HONG KONG IMPORT GROUP LTD 22 QUEENâ€™S ROAD CENTRAL, CENTRAL, HONG KONG TEL: +852 2867 1234, FAX: +852 2867 1235  Place and Date of Issue BUENOS AIRES 9 DECEMBER, 2024",
+        "qas": [
+          {
+            "id": "1",
+            "question": "Who is the shipper?",
+            "answers": [
+              {
+                "text": "SOUTH ATLANTIC EXPORTS INC. 240 PORTSIDE ROAD BUENOS AIRES, ARGENTINA",
+                "answer_start": 19
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "2",
+            "question": "Who is the consignee?",
+            "answers": [
+              {
+                "text": "TO THE ORDER OF SANTANDER BANK BBL NO. 12/DKK 456123 TO BE ISSUED BY SOUTH ATLANTIC LINES",
+                "answer_start": 263
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "3",
+            "question": "Who is the notify party?",
+            "answers": [
+              {
+                "text": "HONG KONG IMPORT GROUP LTD 15 HARBOUR ROAD, WAN CHAI, HONG KONG",
+                "answer_start": 368
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "4",
+            "question": "What is the port of loading?",
+            "answers": [
+              {
+                "text": "BUENOS AIRES PORT, ARGENTINA",
+                "answer_start": 795
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "5",
+            "question": "What is the port of discharge?",
+            "answers": [
+              {
+                "text": "HONG KONG",
+                "answer_start": 843
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "6",
+            "question": "What is the place of delivery?",
+            "answers": [
+              {
+                "text": "HONG KONG CFS",
+                "answer_start": 872
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "7",
+            "question": "What is the bill of lading number?",
+            "answers": [
+              {
+                "text": "BUEHKG12092024",
+                "answer_start": 224
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "8",
+            "question": "What is the place and date of issue?",
+            "answers": [
+              {
+                "text": "BUENOS AIRES 9 DECEMBER, 2024",
+                "answer_start": 2025
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "9",
+            "question": "How many packages are there?",
+            "answers": [
+              {
+                "text": "20",
+                "answer_start": 1100
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "10",
+            "question": "What kind of package is it?",
+            "answers": [
+              {
+                "text": "CTNS",
+                "answer_start": 1103
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "11",
+            "question": "What is the gross weight?",
+            "answers": [
+              {
+                "text": "560.40",
+                "answer_start": 1145
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "12",
+            "question": "What is the gross weight unit?",
+            "answers": [
+              {
+                "text": "kgs",
+                "answer_start": 1152
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "13",
+            "question": "What is the description of goods?",
+            "answers": [
+              {
+                "text": "WINERY EQUIPMENT AND SUPPLIES",
+                "answer_start": 1114
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "14",
+            "question": "What is the dimension or tonnage?",
+            "answers": [
+              {
+                "text": "4.150 CBM",
+                "answer_start": 1157
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "15",
+            "question": "What is the container number?",
+            "answers": [
+              {
+                "text": "TRHU9082736",
+                "answer_start": 1292
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "16",
+            "question": "What is the seal number?",
+            "answers": [
+              {
+                "text": "34217654",
+                "answer_start": 1304
+              }
+            ],
+            "is_impossible": false
+          }
+        ]
+      }
+    ]
+  }

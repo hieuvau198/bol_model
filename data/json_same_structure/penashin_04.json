@@ -1,0 +1,185 @@
+{
+    "data": [
+      {
+        "context": "Consignor/Shipper: MAC - NELS SHIPPING VIETNAM CO., LTD 29 PHO DOC CHINH STR., DIST 1 HOCHIMINH CITY, VIETNAM TEL: 849 3821 2222 FAX: 848 3821 7799  Forwarders Ref.  Customs Reference/Status  Page: 1  Shippers Reference Bill of Lading No. HCMBKK031112022  Consigned to Order of: TO THE ORDER OF THE HOLDER SURRENDERED BBL NO. 1/DKK 290439 TO BE ISSUED BY MAC - NELS CONTAINER LINES  Notify party: PRO - LOG CO., LTD 191/14 CTL TOWEL, 28TH FLOOR, RATCHADAPISE RD., KLONGTOEY BANGKOK 10110 THAILAND TEL: 66-2-261-5380 FAX: 66-2-261-5386  PENANSHIN SHIPPING HCM CO.,LTD Country: Vietnam Port: HOCHIMINH Tel: +84 2871079090 Fax: +84 2871069090 Email: general@penanshin.com.vn Addr: ROOM 6.32 , 6 FLOOR , TOWER B, RIVERGATE BUILDING NO 151-155 BEN VAN DON STR, WARD 6, DISTRICT 4, HCM CITY, VIETNAM  Booking Reference BKK03111 Place of Reciept HOCHIMINH CFS Vessel HANSA OSTERBURG V.040S  Placeof of Loading Loading Port HOCHIMINH ,CFS VIETNAM  Port of Discharge BANGKOK CFS  Place of Delivery BANGKOK CFS  BILL OF LADING Contents, weight, value and measurement according to senders declaration  Marks & Number  Number and Kind of Packages, Description of Goods  Gross Weight  CBM/ Volume  PART OF DRY CONTAINER STC 1 CTNS S.T.C FABRIC 100 PCT. POLYESTER W: 114 CM  64.64 kgs  1.000 CBM  LCL/LCL  SHIPPING MARKS: FREIGHT PREPAID NICE APPAREL CO., LTD C/NO. 1 PO NO : PONA09NI01816 (3VMN07/08)  CONTAINER & SEAL NO: CSLU2082865/21567932  (Original B/L Surrendered In HOCHIMINH CITY)  According to declaration of the consignor. The goods and instructions are accepted and dealt with suject to the Company's Standard Conditions Taken in charge in apparent good order and condition, unless otherwise noted herein, at the place of reciept for transport and delivery as mentioned above. Freight Payable At DESTINATION  Freight Amount Cargo Insurance through the undersigned Not covered: Yes/ No Covered according to attached policy: Yes/ No  No. of Original B/Lading ZERO  For delivery of goods please apply to: PENANSHIN SHIPPING (THAILAND) LTD. 731/32 RATCHADAPISEK ROAD, BANGPONGPENG YANNAWA, BANGKOK 10120, THAILAND TEL: (662) 6839199, FAX: (662) 6839177-78  Place and Date of Issue HO CHI MINH 01 DEC, 2022",
+        "qas": [
+          {
+            "id": "1",
+            "question": "Who is the shipper?",
+            "answers": [
+              {
+                "text": "MAC - NELS SHIPPING VIETNAM CO., LTD 29 PHO DOC CHINH STR., DIST 1 HOCHIMINH CITY, VIETNAM",
+                "answer_start": 19
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "2",
+            "question": "Who is the consignee?",
+            "answers": [
+              {
+                "text": "TO THE ORDER OF THE HOLDER SURRENDERED BBL NO. 1/DKK 290439 TO BE ISSUED BY MAC - NELS CONTAINER LINES",
+                "answer_start": 279
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "3",
+            "question": "Who is the notify party?",
+            "answers": [
+              {
+                "text": "PRO - LOG CO., LTD 191/14 CTL TOWEL, 28TH FLOOR, RATCHADAPISE RD., KLONGTOEY BANGKOK 10110 THAILAND",
+                "answer_start": 397
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "4",
+            "question": "What is the port of loading?",
+            "answers": [
+              {
+                "text": "HOCHIMINH ,CFS VIETNAM",
+                "answer_start": 916
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "5",
+            "question": "What is the port of discharge?",
+            "answers": [
+              {
+                "text": "BANGKOK CFS",
+                "answer_start": 958
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "6",
+            "question": "What is the place of delivery?",
+            "answers": [
+              {
+                "text": "BANGKOK CFS",
+                "answer_start": 989
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "7",
+            "question": "What is the bill of lading number?",
+            "answers": [
+              {
+                "text": "HCMBKK031112022",
+                "answer_start": 239
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "8",
+            "question": "What is the place and date of issue?",
+            "answers": [
+              {
+                "text": "HO CHI MINH 01 DEC, 2022",
+                "answer_start": 2176
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "9",
+            "question": "How many packages are there?",
+            "answers": [
+              {
+                "text": "1",
+                "answer_start": 1211
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "10",
+            "question": "What kind of package is it?",
+            "answers": [
+              {
+                "text": "CTNS",
+                "answer_start": 1213
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "11",
+            "question": "What is the gross weight?",
+            "answers": [
+              {
+                "text": "64.64",
+                "answer_start": 1261
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "12",
+            "question": "What is the gross weight unit?",
+            "answers": [
+              {
+                "text": "kgs",
+                "answer_start": 1267
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "13",
+            "question": "What is the description of goods?",
+            "answers": [
+              {
+                "text": "FABRIC 100 PCT. POLYESTER W: 114 CM",
+                "answer_start": 1224
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "14",
+            "question": "What is the dimension or tonnage?",
+            "answers": [
+              {
+                "text": "1.000 CBM",
+                "answer_start": 1272
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "15",
+            "question": "What is the container number?",
+            "answers": [
+              {
+                "text": "CSLU2082865",
+                "answer_start": 1410
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "16",
+            "question": "What is the seal number?",
+            "answers": [
+              {
+                "text": "21567932",
+                "answer_start": 1422
+              }
+            ],
+            "is_impossible": false
+          }
+        ]
+      }
+    ]
+  }

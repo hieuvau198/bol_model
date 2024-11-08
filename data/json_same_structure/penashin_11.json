@@ -1,0 +1,185 @@
+{
+    "data": [
+      {
+        "context": "Consignor/Shipper: OCEAN TRADE INTERNATIONAL 101 PACIFIC HIGHWAY SYDNEY, AUSTRALIA TEL: +61 2 9876 5432 FAX: +61 2 9876 5433  Forwarders Ref.  Customs Reference/Status  Page: 1  Shippers Reference Bill of Lading No. SYDSGP11232024  Consigned to Order of: TO THE ORDER OF WESTPAC BANKING CORPORATION BBL NO. 6/DKK 321458 TO BE ISSUED BY OCEAN TRADE LINES  Notify party: SINGAPORE IMPORTS PTE LTD 88 MARINA BOULEVARD, FLOOR 20 MARINA BAY FINANCIAL CENTRE, SINGAPORE 018981 TEL: +65 6438 8888 FAX: +65 6438 8899  AUSSIE GLOBAL SHIPPING CO. Country: Australia Port: SYDNEY Tel: +61 2 3456 7890 Fax: +61 2 3456 7891 Email: contact@aussieglobal.com Addr: 50 WHARF ROAD, DARLING HARBOUR, SYDNEY, AUSTRALIA  Booking Reference SGP20245 Place of Receipt SYDNEY PORT Vessel PACIFIC VOYAGER V.102W  Place of Loading SYDNEY PORT, AUSTRALIA  Port of Discharge SINGAPORE  Place of Delivery SINGAPORE CFS  BILL OF LADING Contents, weight, value, and measurement according to senderâ€™s declaration  Marks & Number  Number and Kind of Packages, Description of Goods  Gross Weight  CBM/ Volume  PART OF DRY CONTAINER STC 8 CTNS S.T.C PLASTIC HOUSEHOLD ITEMS  245.30 kgs  2.150 CBM  LCL/LCL  SHIPPING MARKS: FREIGHT PREPAID HOME GOODS PTY LTD C/NO. 8 PO NO: POSG022AT01147 (4SGP03/08)  CONTAINER & SEAL NO: CMAU5012348/87954321  (Original B/L Surrendered In SYDNEY)  According to declaration of the consignor. The goods and instructions are accepted and dealt with subject to the Companyâ€™s Standard Conditions. Taken in charge in apparent good order and condition, unless otherwise noted herein, at the place of receipt for transport and delivery as mentioned above.  Freight Payable At DESTINATION  Freight Amount Cargo Insurance through the undersigned Not covered: Yes/ No Covered according to attached policy: Yes/ No  No. of Original B/Lading ZERO  For delivery of goods please apply to: SINGAPORE IMPORTS (ASIA) PTE LTD 55 CHANGI SOUTH AVE 3, SINGAPORE 486123 TEL: +65 6248 9200, FAX: +65 6248 9300  Place and Date of Issue SYDNEY 23 NOVEMBER, 2024",
+        "qas": [
+          {
+            "id": "1",
+            "question": "Who is the shipper?",
+            "answers": [
+              {
+                "text": "OCEAN TRADE INTERNATIONAL 101 PACIFIC HIGHWAY SYDNEY, AUSTRALIA",
+                "answer_start": 19
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "2",
+            "question": "Who is the consignee?",
+            "answers": [
+              {
+                "text": "TO THE ORDER OF WESTPAC BANKING CORPORATION BBL NO. 6/DKK 321458 TO BE ISSUED BY OCEAN TRADE LINES",
+                "answer_start": 255
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "3",
+            "question": "Who is the notify party?",
+            "answers": [
+              {
+                "text": "SINGAPORE IMPORTS PTE LTD 88 MARINA BOULEVARD, FLOOR 20 MARINA BAY FINANCIAL CENTRE, SINGAPORE 018981",
+                "answer_start": 369
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "4",
+            "question": "What is the port of loading?",
+            "answers": [
+              {
+                "text": "SYDNEY PORT, AUSTRALIA",
+                "answer_start": 804
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "5",
+            "question": "What is the port of discharge?",
+            "answers": [
+              {
+                "text": "SINGAPORE",
+                "answer_start": 846
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "6",
+            "question": "What is the place of delivery?",
+            "answers": [
+              {
+                "text": "SINGAPORE CFS",
+                "answer_start": 875
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "7",
+            "question": "What is the bill of lading number?",
+            "answers": [
+              {
+                "text": "SYDSGP11232024",
+                "answer_start": 216
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "8",
+            "question": "What is the place and date of issue?",
+            "answers": [
+              {
+                "text": "SYDNEY 23 NOVEMBER, 2024",
+                "answer_start": 2013
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "9",
+            "question": "How many packages are there?",
+            "answers": [
+              {
+                "text": "8",
+                "answer_start": 1103
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "10",
+            "question": "What kind of package is it?",
+            "answers": [
+              {
+                "text": "CTNS",
+                "answer_start": 1105
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "11",
+            "question": "What is the gross weight?",
+            "answers": [
+              {
+                "text": "245.30",
+                "answer_start": 1141
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "12",
+            "question": "What is the gross weight unit?",
+            "answers": [
+              {
+                "text": "kgs",
+                "answer_start": 1148
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "13",
+            "question": "What is the description of goods?",
+            "answers": [
+              {
+                "text": "PLASTIC HOUSEHOLD ITEMS",
+                "answer_start": 1116
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "14",
+            "question": "What is the dimension or tonnage?",
+            "answers": [
+              {
+                "text": "2.150 CBM",
+                "answer_start": 1153
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "15",
+            "question": "What is the container number?",
+            "answers": [
+              {
+                "text": "CMAU5012348",
+                "answer_start": 1288
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "16",
+            "question": "What is the seal number?",
+            "answers": [
+              {
+                "text": "87954321",
+                "answer_start": 1300
+              }
+            ],
+            "is_impossible": false
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,185 @@
+{
+    "data": [
+      {
+        "context": "Consignor/Shipper: ATLANTIC FREIGHT SOLUTIONS 45 OCEAN DRIVE CAPE TOWN, SOUTH AFRICA TEL: +27 21 789 1011 FAX: +27 21 789 1012  Forwarders Ref.  Customs Reference/Status  Page: 1  Shippers Reference Bill of Lading No. CPTLON09252024  Consigned to Order of: TO THE ORDER OF FIRST NATIONAL BANK BBL NO. 3/DKK 456789 TO BE ISSUED BY ATLANTIC CONTAINER LINE  Notify party: EURO IMPORTS LTD 55 KING'S ROAD, SUITE 4B LONDON SW3 5UZ, UNITED KINGDOM TEL: +44 20 7890 1234 FAX: +44 20 7890 5678  GLOBAL SHIPPING SERVICES LTD Country: South Africa Port: CAPE TOWN Tel: +27 21 123 4567 Fax: +27 21 123 4568 Email: info@globalshipping.co.za Addr: SUITE 8, MARITIME TOWER, 50 FORESHORE RD, CAPE TOWN, SOUTH AFRICA  Booking Reference LON112233 Place of Receipt CAPE TOWN PORT Vessel AFRICAN HORIZON V.215N  Place of Loading CAPE TOWN PORT, SOUTH AFRICA  Port of Discharge LONDON, UNITED KINGDOM  Place of Delivery LONDON CFS  BILL OF LADING Contents, weight, value, and measurement according to senderâ€™s declaration  Marks & Number  Number and Kind of Packages, Description of Goods  Gross Weight  CBM/ Volume  PART OF DRY CONTAINER STC 15 CTNS S.T.C CANNED GOODS, ASSORTED VEGETABLES  520.75 kgs  4.800 CBM  LCL/LCL  SHIPPING MARKS: FREIGHT PREPAID GOOD FOODS CO., LTD C/NO. 15 PO NO: POLON09FT01432 (12LNM07/11)  CONTAINER & SEAL NO: MAEU3045671/98765432  (Original B/L Surrendered In CAPE TOWN)  According to declaration of the consignor. The goods and instructions are accepted and dealt with subject to the Companyâ€™s Standard Conditions. Taken in charge in apparent good order and condition, unless otherwise noted herein, at the place of receipt for transport and delivery as mentioned above.  Freight Payable At DESTINATION  Freight Amount Cargo Insurance through the undersigned Not covered: Yes/ No Covered according to attached policy: Yes/ No  No. of Original B/Lading ZERO  For delivery of goods please apply to: GLOBAL SHIPPING (UK) LTD 20 DOCKSIDE LANE, LONDON E1 9HH, UNITED KINGDOM TEL: +44 20 1234 5678, FAX: +44 20 1234 5679  Place and Date of Issue CAPE TOWN 25 SEPTEMBER, 2024",
+        "qas": [
+          {
+            "id": "1",
+            "question": "Who is the shipper?",
+            "answers": [
+              {
+                "text": "ATLANTIC FREIGHT SOLUTIONS 45 OCEAN DRIVE CAPE TOWN, SOUTH AFRICA",
+                "answer_start": 19
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "2",
+            "question": "Who is the consignee?",
+            "answers": [
+              {
+                "text": "TO THE ORDER OF FIRST NATIONAL BANK BBL NO. 3/DKK 456789 TO BE ISSUED BY ATLANTIC CONTAINER LINE",
+                "answer_start": 257
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "3",
+            "question": "Who is the notify party?",
+            "answers": [
+              {
+                "text": "EURO IMPORTS LTD 55 KING'S ROAD, SUITE 4B LONDON SW3 5UZ, UNITED KINGDOM",
+                "answer_start": 369
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "4",
+            "question": "What is the port of loading?",
+            "answers": [
+              {
+                "text": "CAPE TOWN PORT, SOUTH AFRICA",
+                "answer_start": 810
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "5",
+            "question": "What is the port of discharge?",
+            "answers": [
+              {
+                "text": "LONDON, UNITED KINGDOM",
+                "answer_start": 858
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "6",
+            "question": "What is the place of delivery?",
+            "answers": [
+              {
+                "text": "LONDON CFS",
+                "answer_start": 900
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "7",
+            "question": "What is the bill of lading number?",
+            "answers": [
+              {
+                "text": "CPTLON09252024",
+                "answer_start": 218
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "8",
+            "question": "What is the place and date of issue?",
+            "answers": [
+              {
+                "text": "CAPE TOWN 25 SEPTEMBER, 2024",
+                "answer_start": 2058
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "9",
+            "question": "How many packages are there?",
+            "answers": [
+              {
+                "text": "15",
+                "answer_start": 1125
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "10",
+            "question": "What kind of package is it?",
+            "answers": [
+              {
+                "text": "CTNS",
+                "answer_start": 1128
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "11",
+            "question": "What is the gross weight?",
+            "answers": [
+              {
+                "text": "520.75",
+                "answer_start": 1174
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "12",
+            "question": "What is the gross weight unit?",
+            "answers": [
+              {
+                "text": "kgs",
+                "answer_start": 1181
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "13",
+            "question": "What is the description of goods?",
+            "answers": [
+              {
+                "text": "CANNED GOODS, ASSORTED VEGETABLES",
+                "answer_start": 1139
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "14",
+            "question": "What is the dimension or tonnage?",
+            "answers": [
+              {
+                "text": "4.800 CBM",
+                "answer_start": 1186
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "15",
+            "question": "What is the container number?",
+            "answers": [
+              {
+                "text": "MAEU3045671",
+                "answer_start": 1324
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "16",
+            "question": "What is the seal number?",
+            "answers": [
+              {
+                "text": "98765432",
+                "answer_start": 1336
+              }
+            ],
+            "is_impossible": false
+          }
+        ]
+      }
+    ]
+  }

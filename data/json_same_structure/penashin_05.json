@@ -1,0 +1,185 @@
+{
+    "data": [
+      {
+        "context": "Consignor/Shipper: PHOENIX LOGISTICS LTD 50 NGUYEN TRAI ST., TAN BINH DISTRICT HO CHI MINH CITY, VIETNAM TEL: +84 839 456 1234 FAX: +84 839 456 5678  Forwarders Ref.  Customs Reference/Status  Page: 1  Shippers Reference Bill of Lading No. SGNBKK041212022  Consigned to Order of: TO THE ORDER OF THE BANK OF VIETNAM BBL NO. 2/DKK 310562 TO BE ISSUED BY PHOENIX CONTAINER LINES  Notify party: GLOBAL TRADE CO., LTD 1508 WEST TOWER, 12TH FLOOR, SUKHUMVIT RD. BANGKOK 10500, THAILAND TEL: 66-2-876-5420 FAX: 66-2-876-5432  RED DRAGON SHIPPING VIETNAM CO., LTD Country: Vietnam Port: HO CHI MINH Tel: +84 2834567890 Fax: +84 2834567891 Email: info@reddragon.com.vn Addr: 21st FLOOR, DONG KHOI TOWER, 15 DONG KHOI ST., DISTRICT 1, HCM CITY, VIETNAM  Booking Reference SGN04112 Place of Receipt HO CHI MINH CFS Vessel OCEAN PHOENIX V.121N  Place of Loading HO CHI MINH CFS, VIETNAM  Port of Discharge LAEM CHABANG CFS  Place of Delivery BANGKOK CFS  BILL OF LADING Contents, weight, value, and measurement according to senderâ€™s declaration  Marks & Number  Number and Kind of Packages, Description of Goods  Gross Weight  CBM/ Volume  PART OF DRY CONTAINER STC 2 CTNS S.T.C COTTON FABRIC 100% W: 120 CM  120.50 kgs  1.500 CBM  LCL/LCL  SHIPPING MARKS: FREIGHT COLLECT BRIGHT TEXTILES CO., LTD C/NO. 2 PO NO: POBX10XY09122 (7VLM14/09)  CONTAINER & SEAL NO: TXLU3024567/78643218  (Original B/L Surrendered In HO CHI MINH CITY)  According to declaration of the consignor. The goods and instructions are accepted and dealt with subject to the Companyâ€™s Standard Conditions. Taken in charge in apparent good order and condition, unless otherwise noted herein, at the place of receipt for transport and delivery as mentioned above.  Freight Payable At DESTINATION  Freight Amount Cargo Insurance through the undersigned Not covered: Yes/ No Covered according to attached policy: Yes/ No  No. of Original B/Lading ZERO  For delivery of goods please apply to: RED DRAGON SHIPPING (THAILAND) LTD. 1234 SILOM ROAD, SATHON DISTRICT, BANGKOK 10500, THAILAND TEL: (662) 7891234, FAX: (662) 7895678  Place and Date of Issue HO CHI MINH 05 JAN, 2023",
+        "qas": [
+          {
+            "id": "1",
+            "question": "Who is the shipper?",
+            "answers": [
+              {
+                "text": "PHOENIX LOGISTICS LTD 50 NGUYEN TRAI ST., TAN BINH DISTRICT HO CHI MINH CITY, VIETNAM",
+                "answer_start": 19
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "2",
+            "question": "Who is the consignee?",
+            "answers": [
+              {
+                "text": "TO THE ORDER OF THE BANK OF VIETNAM BBL NO. 2/DKK 310562 TO BE ISSUED BY PHOENIX CONTAINER LINES",
+                "answer_start": 280
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "3",
+            "question": "Who is the notify party?",
+            "answers": [
+              {
+                "text": "GLOBAL TRADE CO., LTD 1508 WEST TOWER, 12TH FLOOR, SUKHUMVIT RD. BANGKOK 10500, THAILAND",
+                "answer_start": 392
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "4",
+            "question": "What is the port of loading?",
+            "answers": [
+              {
+                "text": "HO CHI MINH CFS, VIETNAM",
+                "answer_start": 851
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "5",
+            "question": "What is the port of discharge?",
+            "answers": [
+              {
+                "text": "LAEM CHABANG CFS",
+                "answer_start": 895
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "6",
+            "question": "What is the place of delivery?",
+            "answers": [
+              {
+                "text": "BANGKOK CFS",
+                "answer_start": 931
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "7",
+            "question": "What is the bill of lading number?",
+            "answers": [
+              {
+                "text": "SGNBKK041212022",
+                "answer_start": 240
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "8",
+            "question": "What is the place and date of issue?",
+            "answers": [
+              {
+                "text": "HO CHI MINH 05 JAN, 2023",
+                "answer_start": 2108
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "9",
+            "question": "How many packages are there?",
+            "answers": [
+              {
+                "text": "2",
+                "answer_start": 1157
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "10",
+            "question": "What kind of package is it?",
+            "answers": [
+              {
+                "text": "CTNS",
+                "answer_start": 1159
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "11",
+            "question": "What is the gross weight?",
+            "answers": [
+              {
+                "text": "120.50",
+                "answer_start": 1200
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "12",
+            "question": "What is the gross weight unit?",
+            "answers": [
+              {
+                "text": "kgs",
+                "answer_start": 1207
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "13",
+            "question": "What is the description of goods?",
+            "answers": [
+              {
+                "text": "COTTON FABRIC 100% W: 120 CM",
+                "answer_start": 1170
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "14",
+            "question": "What is the dimension or tonnage?",
+            "answers": [
+              {
+                "text": "1.500 CBM",
+                "answer_start": 1212
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "15",
+            "question": "What is the container number?",
+            "answers": [
+              {
+                "text": "TXLU3024567",
+                "answer_start": 1352
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "16",
+            "question": "What is the seal number?",
+            "answers": [
+              {
+                "text": "78643218",
+                "answer_start": 1364
+              }
+            ],
+            "is_impossible": false
+          }
+        ]
+      }
+    ]
+  }
