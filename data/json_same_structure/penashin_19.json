@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "context": "Consignor/Shipper: EAST ASIA LOGISTICS LTD 456 BAYFRONT ROAD SINGAPORE TEL: +65 6211 2345 FAX: +65 6211 2346  Forwarders Ref.  Customs Reference/Status  Page: 1  Shippers Reference Bill of Lading No. SGPBOL11242024  Consigned to Order of: TO THE ORDER OF UNITED COMMERCIAL BANK BBL NO. 98/PRX 654321 TO BE ISSUED BY GLOBAL FREIGHT CARRIERS  Notify party: MUMBAI EXPORTS PVT LTD LEVEL 3, OFFICE TOWER, 22 NARIMAN POINT, MUMBAI 400021, INDIA TEL: +91 22 3456 7890 FAX: +91 22 3456 7891  PACIFIC OCEAN SHIPPING SERVICES Country: Singapore Port: SINGAPORE Tel: +65 6433 1122 Fax: +65 6433 1123 Email: operations@pacificoceanservices.sg Addr: 78 MARITIME SQUARE, HARBORFRONT CENTRE, SINGAPORE  Booking Reference SGP98765 Place of Receipt SINGAPORE PORT Vessel OCEANIC STAR V.078W  Place of Loading SINGAPORE PORT  Port of Discharge MUMBAI, INDIA  Place of Delivery MUMBAI CFS  BILL OF LADING Contents, weight, value, and measurement according to senderâ€™s declaration  Marks & Number  Number and Kind of Packages, Description of Goods  Gross Weight  CBM/ Volume  PART OF REFRIGERATED CONTAINER STC 20 BOXES S.T.C FROZEN SEAFOOD PRODUCTS  1040.50 kgs  6.000 CBM  LCL/LCL  SHIPPING MARKS: FREIGHT PREPAID SEAFOOD EXPORTS GROUP C/NO. 20 PO NO: POSGP098MUBRD65432 (5IND20/20)  CONTAINER & SEAL NO: CMAU1234567/54321098  (Original B/L Surrendered In SINGAPORE)  According to declaration of the consignor. The goods and instructions are accepted and dealt with subject to the Companyâ€™s Standard Conditions. Taken in charge in apparent good order and condition, unless otherwise noted herein, at the place of receipt for transport and delivery as mentioned above.  Freight Payable At DESTINATION  Freight Amount Cargo Insurance through the undersigned Not covered: Yes/ No Covered according to attached policy: Yes/ No  No. of Original B/Lading TWO  For delivery of goods please apply to: MUMBAI EXPORTS PVT LTD 22 NARIMAN POINT, FORT AREA, MUMBAI 400021, INDIA TEL: +91 22 5678 4321, FAX: +91 22 5678 4322  Place and Date of Issue SINGAPORE 24 NOVEMBER, 2024",
+      "qas": [
+        {
+          "id": "1",
+          "question": "Who is the shipper?",
+          "answers": [
+            {
+              "text": "EAST ASIA LOGISTICS LTD 456 BAYFRONT ROAD SINGAPORE",
+              "answer_start": 19
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "2",
+          "question": "Who is the consignee?",
+          "answers": [
+            {
+              "text": "TO THE ORDER OF UNITED COMMERCIAL BANK BBL NO. 98/PRX 654321 TO BE ISSUED BY GLOBAL FREIGHT CARRIERS",
+              "answer_start": 239
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "3",
+          "question": "Who is the notify party?",
+          "answers": [
+            {
+              "text": "MUMBAI EXPORTS PVT LTD LEVEL 3, OFFICE TOWER, 22 NARIMAN POINT, MUMBAI 400021, INDIA",
+              "answer_start": 355
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "4",
+          "question": "What is the port of loading?",
+          "answers": [
+            {
+              "text": "SINGAPORE PORT",
+              "answer_start": 793
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "5",
+          "question": "What is the port of discharge?",
+          "answers": [
+            {
+              "text": "MUMBAI, INDIA",
+              "answer_start": 827
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "6",
+          "question": "What is the place of delivery?",
+          "answers": [
+            {
+              "text": "MUMBAI CFS",
+              "answer_start": 860
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "7",
+          "question": "What is the bill of lading number?",
+          "answers": [
+            {
+              "text": "SGPBOL11242024",
+              "answer_start": 200
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "8",
+          "question": "What is the place and date of issue?",
+          "answers": [
+            {
+              "text": "SINGAPORE 24 NOVEMBER, 2024",
+              "answer_start": 2023
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "9",
+          "question": "How many packages are there?",
+          "answers": [
+            {
+              "text": "20",
+              "answer_start": 1094
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "10",
+          "question": "What kind of package is it?",
+          "answers": [
+            {
+              "text": "BOXES",
+              "answer_start": 1097
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "11",
+          "question": "What is the gross weight?",
+          "answers": [
+            {
+              "text": "1040.50",
+              "answer_start": 1134
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "12",
+          "question": "What is the gross weight unit?",
+          "answers": [
+            {
+              "text": "kgs",
+              "answer_start": 1142
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "13",
+          "question": "What is the description of goods?",
+          "answers": [
+            {
+              "text": "FROZEN SEAFOOD PRODUCTS",
+              "answer_start": 1109
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "14",
+          "question": "What is the dimension or tonnage?",
+          "answers": [
+            {
+              "text": "6.000 CBM",
+              "answer_start": 1147
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "15",
+          "question": "What is the container number?",
+          "answers": [
+            {
+              "text": "CMAU1234567",
+              "answer_start": 1290
+            }
+          ],
+          "is_impossible": false
+        },
+        {
+          "id": "16",
+          "question": "What is the seal number?",
+          "answers": [
+            {
+              "text": "54321098",
+              "answer_start": 1302
+            }
+          ],
+          "is_impossible": false
+        }
+      ]
+    }
+  ]
+}

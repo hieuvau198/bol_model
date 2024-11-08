@@ -1,0 +1,185 @@
+{
+    "data": [
+      {
+        "context": "Consignor/Shipper: ATLANTIC GLOBAL EXPORTS INC 145 SEASIDE ROAD DURBAN, SOUTH AFRICA TEL: +27 31 333 4455 FAX: +27 31 333 4466  Forwarders Ref.  Customs Reference/Status  Page: 1  Shippers Reference Bill of Lading No. DBNEX10232024  Consigned to Order of: TO THE ORDER OF PACIFIC BANK CORPORATION BBL NO. 27/ABC 789543 TO BE ISSUED BY DURBAN COASTAL CARRIERS  Notify party: BEIJING IMPORTS & EXPORTS LTD BUILDING A, 12TH FLOOR, 89 WANGFUJING STREET, BEIJING 100006, CHINA TEL: +86 10 4567 8910 FAX: +86 10 4567 8911  AFRICAN COASTLINE SHIPPING LTD Country: South Africa Port: DURBAN Tel: +27 31 222 4455 Fax: +27 31 222 4456 Email: info@africancoastshipping.co.za Addr: 90 BEACHFRONT AVENUE, DURBAN HARBOUR, DURBAN, SOUTH AFRICA  Booking Reference DBN89045 Place of Receipt DURBAN PORT Vessel OCEAN WARRIOR V.200S  Place of Loading DURBAN PORT, SOUTH AFRICA  Port of Discharge BEIJING, CHINA  Place of Delivery BEIJING CFS  BILL OF LADING Contents, weight, value, and measurement according to senderâ€™s declaration  Marks & Number  Number and Kind of Packages, Description of Goods  Gross Weight  CBM/ Volume  PART OF DRY CONTAINER STC 20 CTNS S.T.C ELECTRONIC EQUIPMENT AND COMPONENTS  1025.60 kgs  7.800 CBM  LCL/LCL  SHIPPING MARKS: FREIGHT COLLECT TECHNOLOGY SUPPLIERS LTD C/NO. 20 PO NO: POBEI056DBN09876 (2CHN11/20)  CONTAINER & SEAL NO: TCLU6789102/12345678  (Original B/L Surrendered In DURBAN)  According to declaration of the consignor. The goods and instructions are accepted and dealt with subject to the Companyâ€™s Standard Conditions. Taken in charge in apparent good order and condition, unless otherwise noted herein, at the place of receipt for transport and delivery as mentioned above.  Freight Payable At DESTINATION  Freight Amount Cargo Insurance through the undersigned Not covered: Yes/ No Covered according to attached policy: Yes/ No  No. of Original B/Lading ONE  For delivery of goods please apply to: BEIJING IMPORTS & EXPORTS LTD 89 WANGFUJING STREET, DONGCHENG DISTRICT, BEIJING 100006, CHINA TEL: +86 10 3456 7892, FAX: +86 10 3456 7893  Place and Date of Issue DURBAN 23 OCTOBER, 2024",
+        "qas": [
+          {
+            "id": "1",
+            "question": "Who is the shipper?",
+            "answers": [
+              {
+                "text": "ATLANTIC GLOBAL EXPORTS INC 145 SEASIDE ROAD DURBAN, SOUTH AFRICA",
+                "answer_start": 19
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "2",
+            "question": "Who is the consignee?",
+            "answers": [
+              {
+                "text": "TO THE ORDER OF PACIFIC BANK CORPORATION BBL NO. 27/ABC 789543 TO BE ISSUED BY DURBAN COASTAL CARRIERS",
+                "answer_start": 256
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "3",
+            "question": "Who is the notify party?",
+            "answers": [
+              {
+                "text": "BEIJING IMPORTS & EXPORTS LTD BUILDING A, 12TH FLOOR, 89 WANGFUJING STREET, BEIJING 100006, CHINA",
+                "answer_start": 374
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "4",
+            "question": "What is the port of loading?",
+            "answers": [
+              {
+                "text": "DURBAN PORT, SOUTH AFRICA",
+                "answer_start": 832
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "5",
+            "question": "What is the port of discharge?",
+            "answers": [
+              {
+                "text": "BEIJING, CHINA",
+                "answer_start": 877
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "6",
+            "question": "What is the place of delivery?",
+            "answers": [
+              {
+                "text": "BEIJING CFS",
+                "answer_start": 911
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "7",
+            "question": "What is the bill of lading number?",
+            "answers": [
+              {
+                "text": "DBNEX10232024",
+                "answer_start": 218
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "8",
+            "question": "What is the place and date of issue?",
+            "answers": [
+              {
+                "text": "DURBAN 23 OCTOBER, 2024",
+                "answer_start": 2096
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "9",
+            "question": "How many packages are there?",
+            "answers": [
+              {
+                "text": "20",
+                "answer_start": 1137
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "10",
+            "question": "What kind of package is it?",
+            "answers": [
+              {
+                "text": "CTNS",
+                "answer_start": 1140
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "11",
+            "question": "What is the gross weight?",
+            "answers": [
+              {
+                "text": "1025.60",
+                "answer_start": 1188
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "12",
+            "question": "What is the gross weight unit?",
+            "answers": [
+              {
+                "text": "kgs",
+                "answer_start": 1196
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "13",
+            "question": "What is the description of goods?",
+            "answers": [
+              {
+                "text": "ELECTRONIC EQUIPMENT AND COMPONENTS",
+                "answer_start": 1151
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "14",
+            "question": "What is the dimension or tonnage?",
+            "answers": [
+              {
+                "text": "7.800 CBM",
+                "answer_start": 1201
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "15",
+            "question": "What is the container number?",
+            "answers": [
+              {
+                "text": "TCLU6789102",
+                "answer_start": 1345
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "16",
+            "question": "What is the seal number?",
+            "answers": [
+              {
+                "text": "12345678",
+                "answer_start": 1357
+              }
+            ],
+            "is_impossible": false
+          }
+        ]
+      }
+    ]
+  }

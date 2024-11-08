@@ -1,0 +1,185 @@
+{
+    "data": [
+      {
+        "context": "Consignor/Shipper: AMERICAS EXPORT SOLUTIONS INC. 1250 HARBOR DRIVE MIAMI, FLORIDA, USA TEL: +1 305 888 5678 FAX: +1 305 888 5679  Forwarders Ref.  Customs Reference/Status  Page: 1  Shippers Reference Bill of Lading No. MIAUS08092024  Consigned to Order of: TO THE ORDER OF EAST WEST BANK BBL NO. 23/QRM 456879 TO BE ISSUED BY OCEAN GLOBAL LOGISTICS  Notify party: TOKYO WHOLESALE MARKET CO. LTD BUILDING A, 10TH FLOOR, 88 SHINAGAWA AVE, TOKYO 141-0001, JAPAN TEL: +81 3 4567 8901 FAX: +81 3 4567 8902  ATLANTIC CARGO HANDLERS LTD Country: United States Port: MIAMI Tel: +1 305 777 4321 Fax: +1 305 777 4322 Email: contact@atlanticcargo.com Addr: 900 OCEANIC BLVD, BAY AREA, MIAMI, FLORIDA, USA  Booking Reference MIA98321 Place of Receipt MIAMI PORT Vessel ATLANTIC GLIDER V.071N  Place of Loading MIAMI PORT, USA  Port of Discharge TOKYO, JAPAN  Place of Delivery TOKYO CFS  BILL OF LADING Contents, weight, value, and measurement according to senderâ€™s declaration  Marks & Number  Number and Kind of Packages, Description of Goods  Gross Weight  CBM/ Volume  PART OF DRY CONTAINER STC 8 PALLETS S.T.C MEDICAL EQUIPMENT AND SUPPLIES  1250.30 kgs  5.620 CBM  LCL/LCL  SHIPPING MARKS: FREIGHT COLLECT GLOBAL HEALTHCARE SOLUTIONS C/NO. 8 PO NO: POJPT0809US01001 (3JPN08/08)  CONTAINER & SEAL NO: ONEU4567890/21098765  (Original B/L Surrendered In MIAMI)  According to declaration of the consignor. The goods and instructions are accepted and dealt with subject to the Companyâ€™s Standard Conditions. Taken in charge in apparent good order and condition, unless otherwise noted herein, at the place of receipt for transport and delivery as mentioned above.  Freight Payable At DESTINATION  Freight Amount Cargo Insurance through the undersigned Not covered: Yes/ No Covered according to attached policy: Yes/ No  No. of Original B/Lading THREE  For delivery of goods please apply to: TOKYO WHOLESALE MARKET CO. LTD 88 SHINAGAWA AVE, MINATO CITY, TOKYO 141-0001, JAPAN TEL: +81 3 5678 4321, FAX: +81 3 5678 4323  Place and Date of Issue MIAMI 9 AUGUST, 2024  ",
+        "qas": [
+          {
+            "id": "1",
+            "question": "Who is the shipper?",
+            "answers": [
+              {
+                "text": "AMERICAS EXPORT SOLUTIONS INC. 1250 HARBOR DRIVE MIAMI, FLORIDA, USA",
+                "answer_start": 19
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "2",
+            "question": "Who is the consignee?",
+            "answers": [
+              {
+                "text": "TO THE ORDER OF EAST WEST BANK BBL NO. 23/QRM 456879 TO BE ISSUED BY OCEAN GLOBAL LOGISTICS",
+                "answer_start": 259
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "3",
+            "question": "Who is the notify party?",
+            "answers": [
+              {
+                "text": "TOKYO WHOLESALE MARKET CO. LTD BUILDING A, 10TH FLOOR, 88 SHINAGAWA AVE, TOKYO 141-0001, JAPAN",
+                "answer_start": 366
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "4",
+            "question": "What is the port of loading?",
+            "answers": [
+              {
+                "text": "MIAMI PORT, USA",
+                "answer_start": 800
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "5",
+            "question": "What is the port of discharge?",
+            "answers": [
+              {
+                "text": "TOKYO, JAPAN",
+                "answer_start": 835
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "6",
+            "question": "What is the place of delivery?",
+            "answers": [
+              {
+                "text": "TOKYO CFS",
+                "answer_start": 867
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "7",
+            "question": "What is the bill of lading number?",
+            "answers": [
+              {
+                "text": "MIAUS08092024",
+                "answer_start": 221
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "8",
+            "question": "What is the place and date of issue?",
+            "answers": [
+              {
+                "text": "MIAMI 9 AUGUST, 2024",
+                "answer_start": 2038
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "9",
+            "question": "How many packages are there?",
+            "answers": [
+              {
+                "text": "8",
+                "answer_start": 1091
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "10",
+            "question": "What kind of package is it?",
+            "answers": [
+              {
+                "text": "PALLETS",
+                "answer_start": 1093
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "11",
+            "question": "What is the gross weight?",
+            "answers": [
+              {
+                "text": "1250.30",
+                "answer_start": 1139
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "12",
+            "question": "What is the gross weight unit?",
+            "answers": [
+              {
+                "text": "kgs",
+                "answer_start": 1147
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "13",
+            "question": "What is the description of goods?",
+            "answers": [
+              {
+                "text": "MEDICAL EQUIPMENT AND SUPPLIES",
+                "answer_start": 1107
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "14",
+            "question": "What is the dimension or tonnage?",
+            "answers": [
+              {
+                "text": "5.620 CBM",
+                "answer_start": 1152
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "15",
+            "question": "What is the container number?",
+            "answers": [
+              {
+                "text": "ONEU4567890",
+                "answer_start": 1298
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "16",
+            "question": "What is the seal number?",
+            "answers": [
+              {
+                "text": "21098765",
+                "answer_start": 1310
+              }
+            ],
+            "is_impossible": false
+          }
+        ]
+      }
+    ]
+  }

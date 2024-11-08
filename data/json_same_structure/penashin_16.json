@@ -1,0 +1,185 @@
+{
+    "data": [
+      {
+        "context": "Consignor/Shipper: NORTHERN OCEAN EXPORTS LLC 233 HARBOR ROAD SYDNEY, AUSTRALIA TEL: +61 2 9387 1234 FAX: +61 2 9387 1235  Forwarders Ref.  Customs Reference/Status  Page: 1  Shippers Reference Bill of Lading No. SYDOCE09112024  Consigned to Order of: TO THE ORDER OF EUROPEAN INVESTMENT BANK BBL NO. 47/JLN 872634 TO BE ISSUED BY GLOBAL CARGO NETWORK  Notify party: BERLIN DISTRIBUTORS GMBH WAREHOUSE B, FLOOR 3, 121 FREIDRICHSTRASSE, BERLIN 10117, GERMANY TEL: +49 30 7890 4567 FAX: +49 30 7890 4568  PACIFIC SEAWAYS LTD Country: Australia Port: SYDNEY Tel: +61 2 8877 2233 Fax: +61 2 8877 2234 Email: contact@pacificseaways.com.au Addr: 202 OCEAN TERRACE, DARLING HARBOUR, SYDNEY, AUSTRALIA  Booking Reference SYD90872 Place of Receipt SYDNEY PORT Vessel GLOBAL WAVE V.181N  Place of Loading SYDNEY PORT, AUSTRALIA  Port of Discharge HAMBURG, GERMANY  Place of Delivery HAMBURG WAREHOUSE  BILL OF LADING Contents, weight, value, and measurement according to senderâ€™s declaration  Marks & Number  Number and Kind of Packages, Description of Goods  Gross Weight  CBM/ Volume  PART OF DRY CONTAINER STC 18 BOXES S.T.C AUTOMOTIVE PARTS AND ACCESSORIES  1123.50 kgs  6.500 CBM  LCL/LCL  SHIPPING MARKS: FREIGHT PREPAID AUTOMOTIVE SUPPLY INC C/NO. 18 PO NO: POHAM092SYDA34567 (3GER09/18)  CONTAINER & SEAL NO: MAEU9876543/12398765  (Original B/L Surrendered In SYDNEY)  According to declaration of the consignor. The goods and instructions are accepted and dealt with subject to the Companyâ€™s Standard Conditions. Taken in charge in apparent good order and condition, unless otherwise noted herein, at the place of receipt for transport and delivery as mentioned above.  Freight Payable At DESTINATION  Freight Amount Cargo Insurance through the undersigned Not covered: Yes/ No Covered according to attached policy: Yes/ No  No. of Original B/Lading TWO  For delivery of goods please apply to: BERLIN DISTRIBUTORS GMBH 121 FREIDRICHSTRASSE, MITTE DISTRICT, BERLIN 10117, GERMANY TEL: +49 30 6543 7891, FAX: +49 30 6543 7892  Place and Date of Issue SYDNEY 11 SEPTEMBER, 2024",
+        "qas": [
+          {
+            "id": "1",
+            "question": "Who is the shipper?",
+            "answers": [
+              {
+                "text": "NORTHERN OCEAN EXPORTS LLC 233 HARBOR ROAD SYDNEY, AUSTRALIA",
+                "answer_start": 19
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "2",
+            "question": "Who is the consignee?",
+            "answers": [
+              {
+                "text": "TO THE ORDER OF EUROPEAN INVESTMENT BANK BBL NO. 47/JLN 872634 TO BE ISSUED BY GLOBAL CARGO NETWORK",
+                "answer_start": 252
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "3",
+            "question": "Who is the notify party?",
+            "answers": [
+              {
+                "text": "BERLIN DISTRIBUTORS GMBH WAREHOUSE B, FLOOR 3, 121 FREIDRICHSTRASSE, BERLIN 10117, GERMANY",
+                "answer_start": 367
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "4",
+            "question": "What is the port of loading?",
+            "answers": [
+              {
+                "text": "SYDNEY PORT, AUSTRALIA",
+                "answer_start": 795
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "5",
+            "question": "What is the port of discharge?",
+            "answers": [
+              {
+                "text": "HAMBURG, GERMANY",
+                "answer_start": 837
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "6",
+            "question": "What is the place of delivery?",
+            "answers": [
+              {
+                "text": "HAMBURG WAREHOUSE",
+                "answer_start": 873
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "7",
+            "question": "What is the bill of lading number?",
+            "answers": [
+              {
+                "text": "SYDOCE09112024",
+                "answer_start": 213
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "8",
+            "question": "What is the place and date of issue?",
+            "answers": [
+              {
+                "text": "SYDNEY 11 SEPTEMBER, 2024",
+                "answer_start": 2051
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "9",
+            "question": "How many packages are there?",
+            "answers": [
+              {
+                "text": "18",
+                "answer_start": 1105
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "10",
+            "question": "What kind of package is it?",
+            "answers": [
+              {
+                "text": "BOXES",
+                "answer_start": 1108
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "11",
+            "question": "What is the gross weight?",
+            "answers": [
+              {
+                "text": "1123.50",
+                "answer_start": 1154
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "12",
+            "question": "What is the gross weight unit?",
+            "answers": [
+              {
+                "text": "kgs",
+                "answer_start": 1162
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "13",
+            "question": "What is the description of goods?",
+            "answers": [
+              {
+                "text": "AUTOMOTIVE PARTS AND ACCESSORIES",
+                "answer_start": 1120
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "14",
+            "question": "What is the dimension or tonnage?",
+            "answers": [
+              {
+                "text": "6.500 CBM",
+                "answer_start": 1167
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "15",
+            "question": "What is the container number?",
+            "answers": [
+              {
+                "text": "MAEU9876543",
+                "answer_start": 1309
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "16",
+            "question": "What is the seal number?",
+            "answers": [
+              {
+                "text": "12398765",
+                "answer_start": 1321
+              }
+            ],
+            "is_impossible": false
+          }
+        ]
+      }
+    ]
+  }

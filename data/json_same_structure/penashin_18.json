@@ -1,0 +1,185 @@
+{
+    "data": [
+      {
+        "context": "Consignor/Shipper: GLOBAL SUPPLY CHAIN INC. 101 INDUSTRIAL PARKWAY TORONTO, CANADA TEL: +1 416 555 0199 FAX: +1 416 555 0200  Forwarders Ref.  Customs Reference/Status  Page: 1  Shippers Reference Bill of Lading No. TRNCND03122024  Consigned to Order of: TO THE ORDER OF NATIONAL BANK OF BRAZIL BBL NO. 29/PQW 789345 TO BE ISSUED BY INTERCOASTAL LOGISTICS  Notify party: RIO IMPORTERS S.A. BUILDING D, UNIT 2, 234 AVENIDA DAS AMÃ‰RICAS, RIO DE JANEIRO 22640-100, BRAZIL TEL: +55 21 9876 5432 FAX: +55 21 9876 5433  MAPLE TRADE SERVICES LTD Country: Canada Port: TORONTO Tel: +1 416 444 2323 Fax: +1 416 444 2324 Email: support@mapletradeservices.ca Addr: 900 MAPLE DRIVE, LAKEFRONT DISTRICT, TORONTO, CANADA  Booking Reference TOR81245 Place of Receipt TORONTO PORT Vessel PACIFIC SPIRIT V.232N  Place of Loading TORONTO PORT, CANADA  Port of Discharge RIO DE JANEIRO, BRAZIL  Place of Delivery RIO CFS  BILL OF LADING Contents, weight, value, and measurement according to senderâ€™s declaration  Marks & Number  Number and Kind of Packages, Description of Goods  Gross Weight  CBM/ Volume  PART OF DRY CONTAINER STC 12 CRATES S.T.C ELECTRONIC EQUIPMENT AND ACCESSORIES  980.60 kgs  4.750 CBM  LCL/LCL  SHIPPING MARKS: FREIGHT COLLECT ELECTRONICS HUB LTD C/NO. 12 PO NO: PORIO072TORC89456 (7BRA12/12)  CONTAINER & SEAL NO: APLU3456789/87654321  (Original B/L Surrendered In TORONTO)  According to declaration of the consignor. The goods and instructions are accepted and dealt with subject to the Companyâ€™s Standard Conditions. Taken in charge in apparent good order and condition, unless otherwise noted herein, at the place of receipt for transport and delivery as mentioned above.  Freight Payable At DESTINATION  Freight Amount Cargo Insurance through the undersigned Not covered: Yes/ No Covered according to attached policy: Yes/ No  No. of Original B/Lading ONE  For delivery of goods please apply to: RIO IMPORTERS S.A. 234 AVENIDA DAS AMÃ‰RICAS, BARRA DA TIJUCA, RIO DE JANEIRO 22640-100, BRAZIL TEL: +55 21 3456 7891, FAX: +55 21 3456 7892  Place and Date of Issue TORONTO 12 MARCH, 2024",
+        "qas": [
+          {
+            "id": "1",
+            "question": "Who is the shipper?",
+            "answers": [
+              {
+                "text": "GLOBAL SUPPLY CHAIN INC. 101 INDUSTRIAL PARKWAY TORONTO, CANADA",
+                "answer_start": 19
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "2",
+            "question": "Who is the consignee?",
+            "answers": [
+              {
+                "text": "TO THE ORDER OF NATIONAL BANK OF BRAZIL BBL NO. 29/PQW 789345 TO BE ISSUED BY INTERCOASTAL LOGISTICS",
+                "answer_start": 255
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "3",
+            "question": "Who is the notify party?",
+            "answers": [
+              {
+                "text": "RIO IMPORTERS S.A. BUILDING D, UNIT 2, 234 AVENIDA DAS AMÃ‰RICAS, RIO DE JANEIRO 22640-100, BRAZIL",
+                "answer_start": 371
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "4",
+            "question": "What is the port of loading?",
+            "answers": [
+              {
+                "text": "TORONTO PORT, CANADA",
+                "answer_start": 813
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "5",
+            "question": "What is the port of discharge?",
+            "answers": [
+              {
+                "text": "RIO DE JANEIRO, BRAZIL",
+                "answer_start": 853
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "6",
+            "question": "What is the place of delivery?",
+            "answers": [
+              {
+                "text": "RIO CFS",
+                "answer_start": 895
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "7",
+            "question": "What is the bill of lading number?",
+            "answers": [
+              {
+                "text": "TRNCND03122024",
+                "answer_start": 216
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "8",
+            "question": "What is the place and date of issue?",
+            "answers": [
+              {
+                "text": "TORONTO 12 MARCH, 2024",
+                "answer_start": 2077
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "9",
+            "question": "How many packages are there?",
+            "answers": [
+              {
+                "text": "12",
+                "answer_start": 1117
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "10",
+            "question": "What kind of package is it?",
+            "answers": [
+              {
+                "text": "CRATES",
+                "answer_start": 1120
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "11",
+            "question": "What is the gross weight?",
+            "answers": [
+              {
+                "text": "980.60",
+                "answer_start": 1171
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "12",
+            "question": "What is the gross weight unit?",
+            "answers": [
+              {
+                "text": "kgs",
+                "answer_start": 1178
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "13",
+            "question": "What is the description of goods?",
+            "answers": [
+              {
+                "text": "ELECTRONIC EQUIPMENT AND ACCESSORIES",
+                "answer_start": 1133
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "14",
+            "question": "What is the dimension or tonnage?",
+            "answers": [
+              {
+                "text": "4.750 CBM",
+                "answer_start": 1183
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "15",
+            "question": "What is the container number?",
+            "answers": [
+              {
+                "text": "APLU3456789",
+                "answer_start": 1323
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "id": "16",
+            "question": "What is the seal number?",
+            "answers": [
+              {
+                "text": "87654321",
+                "answer_start": 1335
+              }
+            ],
+            "is_impossible": false
+          }
+        ]
+      }
+    ]
+  }
